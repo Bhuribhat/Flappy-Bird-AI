@@ -11,10 +11,15 @@ Using NEAT Python to learn to play Flappy Bird. This code uses search and optimi
 >> py game.py
 ```
 
-- Use <kbd>&uarr;</kbd> or <kbd>W</kbd> key to play  
-- Use <kbd>R</kbd> to replay the game.
+- Use <kbd>&uarr;</kbd> or <kbd>w</kbd> key to play  
+- Use <kbd>r</kbd> to retry the game.
 - Use <kbd>spacebar</kbd> to pause the game.
-- Use <kbd>Esc</kbd> to close the game.
+- Use <kbd>ESC</kbd> to close the game.
+
+<p align="left">
+    <img src="./assets/gameplay.png" height="400" />
+    <img src="./assets/gameover.png" height="400" />
+</p>
 
 **How to train AI to play the game**
 
@@ -22,7 +27,7 @@ Using NEAT Python to learn to play Flappy Bird. This code uses search and optimi
 >> py train.py
 ```
 
-![Flappy Bird in action](./assets/FB.gif)
+<img src="assets/FB.gif" height="400" />
 
 **How to play the game with AI**
 
