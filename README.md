@@ -31,10 +31,12 @@ Using NEAT Python to learn to play Flappy Bird. This code uses search and optimi
 ```
 
 ### NEAT Python
-Here is the documentation for the genetic module: [neat python](https://neat-python.readthedocs.io/en/latest/)
+Here is the documentation for the genetic module.  
+Check it out here: [neat python](https://neat-python.readthedocs.io/en/latest/)
 
 ### Reference
-Blog that explaining what's happening here: [medium blog](https://medium.com/chris-nielsen/teaching-an-ai-to-play-flappy-bird-f0b18d65569b)
+Blog that explaining what's happening here.  
+Check it out here: [medium blog](https://medium.com/chris-nielsen/teaching-an-ai-to-play-flappy-bird-f0b18d65569b)
 
 ### Tutorial
 Tim at techwithtim teaching all the details of the project.  
