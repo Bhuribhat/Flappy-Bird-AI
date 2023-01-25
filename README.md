@@ -1,4 +1,4 @@
-# FlappyBirdAI
+# Flappy Bird AI
 
 Using NEAT Python to learn to play Flappy Bird. This code uses search and optimise technique called genetic algorithm which creates a particular number of random configurations, the best configuration of them is used to create the next generation of neural networks, as we repeat the process, with time, we observe that the performance gets better. 
 
@@ -16,7 +16,7 @@ Using NEAT Python to learn to play Flappy Bird. This code uses search and optimi
 - Use <kbd>spacebar</kbd> to pause the game.
 - Use <kbd>Esc</kbd> to close the game.
 
-**How to train AI ro play the game**
+**How to train AI to play the game**
 
 ```sh
 >> py train.py
@@ -32,12 +32,12 @@ Using NEAT Python to learn to play Flappy Bird. This code uses search and optimi
 
 ### NEAT Python
 Here is the documentation for the genetic module.  
-Check it out here: [neat python](https://neat-python.readthedocs.io/en/latest/)
+**Check it out here:** [neat python](https://neat-python.readthedocs.io/en/latest/)
 
 ### Reference
 Blog that explaining what's happening here.  
-Check it out here: [medium blog](https://medium.com/chris-nielsen/teaching-an-ai-to-play-flappy-bird-f0b18d65569b)
+**Check it out here:** [medium blog](https://medium.com/chris-nielsen/teaching-an-ai-to-play-flappy-bird-f0b18d65569b)
 
 ### Tutorial
 Tim at techwithtim teaching all the details of the project.  
-Check it out here: [Tech with Tim](https://www.youtube.com/watch?v=OGHA-elMrxI)
+**Check it out here:** [Tech with Tim](https://www.youtube.com/watch?v=OGHA-elMrxI)
